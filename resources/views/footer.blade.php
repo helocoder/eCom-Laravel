@@ -1,5 +1,6 @@
-<footer class="footer mt-auto py-3 bg-light">
-  <div class="container">
-    <span class="text-muted">&#169; copyrights hellocoder 2022.</span>
+<div style = "clear : both" class="panel panel-default">
+  <div class="panel-body">
+    Panel content
   </div>
-</footer>
+  <div class="panel-footer">Panel footer</div>
+</div>
