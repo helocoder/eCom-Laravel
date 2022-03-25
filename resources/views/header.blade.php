@@ -30,7 +30,7 @@ $total = ProductController::cartItem();
 
         <li> 
         <button>
-        <a href="#" class="btn btn-info btn-lg">
+        <a href="/cartlist" class="btn btn-info btn-lg">
           <span class="glyphicon glyphicon-shopping-cart"></span> Shopping Cart({{$total}})
         </a>
         </button>
