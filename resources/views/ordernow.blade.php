@@ -32,7 +32,7 @@
 <form action="/orderplace" method = "POST" >
     @csrf
   <div class="form-group">
-    <textarea type="email" name = "address" placeholder="Enter your address" class="form-control"></textarea>
+    <textarea name = "address" placeholder="Enter your address" class="form-control"></textarea>
   </div>
   <div class="form-group">
     <label for="pwd">Payment Method</label><br><br>

@@ -28,7 +28,8 @@
 
  }
  .custom-product{
-     height:700px;
+     height:750px;
+     
  }
  .slider-text{
      background-color: #35443585 !important;

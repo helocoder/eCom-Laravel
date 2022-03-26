@@ -3,7 +3,7 @@
     @section("content")
 <div class="custom-product">
 
-<div id="demo" class="carousel slide" data-ride =" carousel">
+<div id="demo" class="carousel slide" data-ride ="carousel">
      <!-- Indicators -->
         <ul class="carousel-indicators">
             <li data-target="#demo" data-slide-to="0" class="active"></li>

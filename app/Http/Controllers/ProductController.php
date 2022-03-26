@@ -75,7 +75,7 @@ class ProductController extends Controller
     {
         $userId=Session::get('user')['id'];
         $allCart = Cart::where('user_id',$userId)->get();
-        foreach($allcart as $cart)
+        foreach($allCart as $cart)
         {
             $order= new Order;
             $order->product_id=$cart['product_id'];
